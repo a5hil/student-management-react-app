@@ -24,6 +24,7 @@ const AddStudent = () => {
                             </div>
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                                 <label htmlFor="" className="form-label">Gender</label>
+                                <br />
                                 <label htmlFor="" className="form-check-label">Male</label>
                                 <input type="radio" className="form-check-input" name="Gender" id="male" />
                                 <label htmlFor="" className="form-check-label">Female</label>
